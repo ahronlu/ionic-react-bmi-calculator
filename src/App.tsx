@@ -92,7 +92,7 @@ const App: React.FC = () => {
       <IonApp>
         <IonHeader>
           <IonToolbar color='primary'>
-            <IonTitle>BMI Calculator</IonTitle>
+            <IonTitle>Koftov BMI Calculator</IonTitle>
           </IonToolbar>
         </IonHeader>
         <IonContent className='ion-padding'>
